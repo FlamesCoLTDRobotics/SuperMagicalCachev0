@@ -25,6 +25,51 @@ f.write("m16\n")
 ## write a thread of m17 threads
 f.write("m17\n")
 
+## step one check ram if data is written
+f.write("check_ram\n")
+
+## write a thread of m18 threads
+f.write("m18\n")
+
+## write a thread of m19 threads
+f.write("m19\n")
+
+## check vram if data is there
+f.write("check_ram\n")
+
+## write a thread of m20 threads
+f.write("m20\n")
+
+## write a thread of m21 threads
+f.write("m21\n")
+
+## If hdd write optimizer using the optimizer algrothim from quntum entaglement
+f.write("hdd\n")
+
+## write a thread of m22 threads
+f.write("m22\n")
+
+## write a thread of m23 threads
+f.write("m23\n")
+
+## write a thread of m24 threads
+
+## generate a optimized ssd on a m1 mac
+f.write("optimized_ssd\n")
+
+## write a thread of m25 threads
+f.write("m25\n")
+
+## write a thread of m26 threads
+f.write("m26\n")
+
+
+## write a thread of m20 threads
+f.write("m20\n")
+
+## write a thread of m21 threads
+f.write("m21\n")
+
 
 ## boost the rate to 1 tb per second
 f.write("tb\n")
